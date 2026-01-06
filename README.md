@@ -1,2 +1,21 @@
-# BYNRY
-Backend case study for StockFlow, a B2B inventory management SaaS. Includes API code review &amp; debugging, scalable database design for multi-warehouse inventory, and a low-stock alerts API based on sales activity, thresholds, and supplier data.
+# StockFlow – Backend Case Study
+
+This repository contains my solution to a backend internship case study
+focused on designing and evaluating a B2B inventory management system.
+
+## Contents
+- API Code Review & Debugging
+- Database Schema Design
+- Low Stock Alerts API Implementation
+
+## Document
+The complete solution and explanations are available here:
+👉 StockFlow_Backend_Case_Study.pdf
+
+## Tech Stack
+- Python (Flask)
+- SQLAlchemy
+- Relational Database Design
+
+## Notes
+All assumptions made due to incomplete requirements are clearly documented.
