@@ -10,7 +10,7 @@ focused on designing and evaluating a B2B inventory management system.
 
 ## Document
 The complete solution and explanations are available here:
-👉 StockFlow_Backend_Case_Study.pdf
+👉 Solution_Document_for_Case_Study_BYNRY.pdf
 
 ## Tech Stack
 - Python (Flask)
